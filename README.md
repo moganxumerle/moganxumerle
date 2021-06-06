@@ -10,20 +10,32 @@
 ![GitHub followers](https://img.shields.io/github/followers/moganxumerle?label=Follow&style=social)
 
 ## Technologies, languages and tools that I like to work
-<code><img height="40" src="https://raw.githubusercontent.com/ftathiago/ftathiago/e751c0e3d966b885a66821bfa47145898ab75bff/kafka.svg" alt="Kafka" title="Kafka"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" title="C#"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code"></code>
+<code><img height="40" src="./img/go-original.svg" alt="Golang" title="Go"></code>
+<code><img height="40" src="./img/cSharp.svg" alt="C#" title="C#"></code>
+<code><img height="40" src="./img/java.png" alt="Java" title="Java"></code>
+<code><img height="40" src="./img/springboot.png" alt="Spring Boot" title="Spring Boot"></code>
+<code><img height="40" src="./img/dotnetcore.svg" alt="dotnetcore" title=".NET Core"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png" alt="SQL Server" title="SQL Server"></code>
+<code><img height="40" src="./img/mysql.svg" alt="MySQL" title="MySQL"></code>
+<code><img height="40" src="./img/oracle.png" alt="Oracle" title="Oracle"></code>
+<code><img height="40" src="./img/postgresql.svg" alt="Postgres" title="Postgres"></code>
+<code><img height="40" src="./img/vscode.png" alt="VS Code" title="VS Code"></code>
+<code><img height="40" src="./img/visual-studio.png" alt="Visual Studio" title="Visual Studio"></code>
+<code><img height="40" src="./img/git-original.svg" alt="Git" title="Git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yaml/yaml.png" alt="Yaml" title="Yaml"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ftathiago/ftathiago/main/visual-studio.png" alt="Visual Studio" title="Visual Studio"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ftathiago/ftathiago/main/postman.png" alt="Postman" title="Postman"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/ftathiago/ftathiago/main/insomnia.png" alt="Insomnia" title="Insomnia"></code>
+<code><img height="40" src="./img/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"></code>
+<code><img height="40" src="./img/kafka.svg" alt="Kafka" title="Kafka"></code>
+<code><img height="40" src="./img/postman.png" alt="Postman" title="Postman"></code>
+<code><img height="40" src="./img/srum.png" alt="Scrum" title="Scrum"></code>
 
 ### What I've been studying
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" title="CSS3"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" title="React"></code>
+<code><img height="30" src="./img/flutter.png" alt="Flutter" title="Flutter"></code>
+<code><img height="30" src="./img/html5.svg" alt="HTML5" title="HTML5"></code>
+<code><img height="30" src="./img/css.svg" alt="CSS3" title="CSS3"></code>
+<code><img height="30" src="./img/javascript.svg" alt="Javascript" title="Javascript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" title="React"></code>
+<code><img height="30" src="./img/insomnia.png" alt="Insomnia" title="Insomnia"></code>
 
 ---
 ## &#x1f4c8; GitHub Stats
